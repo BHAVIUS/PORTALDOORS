@@ -1,6 +1,6 @@
 # PORTALDOORS
 
-### PORTALDOORS Project Repository for *.PORTALDOORS.* web sites
+### PORTALDOORS Project Repository for \*.PORTALDOORS.\* web sites
 
 Current Version: Aoraki 9.3.3  
 Current DotNet Target: 6.0.0-preview6 with Visual Studio 17 preview 2  
