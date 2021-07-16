@@ -8,6 +8,18 @@ Planned DotNet Target: 6.0 maintain in 6.0 for Microsoft lifetime of 6.0
 Dev/Test Focus: web apps with Telerik UI for ASP.Net Core  
 Public Release: 24 June 2021 in repository github.com/BHAVIUS/PDP-DREAM  
 
+Visual Studio Solution Collection of DotNet Projects
+
+* PORTALDOORS.NexusRestApi live at <a href="https://npds.portaldoors.org/">npds.PORTALDOORS.org</a>
+* PORTALDOORS.NexusWebApp live at <a href="https://www.portaldoors.org/">www.PORTALDOORS.org</a>
+* PORTALDOORS.ScribeRestApi live at <a href="https://npds.portaldoors.net/">npds.PORTALDOORS.net</a>
+* PORTALDOORS.ScribeWebApp live at <a href="https://www.portaldoors.net/">www.PORTALDOORS.net</a>
+
+Related Github Projects  
+
+* <a href="https://github.com/BHAVIUS/PORTALDOORS">BHAVIUS/PORTALDOORS</a>  
+* <a href="https://github.com/BHAVIUS/NPDSLINKS">BHAVIUS/NPDSLINKS</a>  
+* <a href="https://github.com/BHAVIUS/PDP-DREAM">BHAVIUS/PDP-DREAM</a>  
 
 <h4>NPDS Cyberinfrastructure</h4>
 
