@@ -1,19 +1,28 @@
-# PORTALDOORS
+# PDP-DREAM
 
-### PORTALDOORS Project Repository for \*.PORTALDOORS.\* web sites
+### PORTAL-DOORS Project PDP-DREAM Repository for C# Software
 
 Current Version: Aoraki 9.3.3  
 Current DotNet Target: 6.0.0-preview6 with Visual Studio 17 preview 2  
 Planned DotNet Target: 6.0 maintain in 6.0 for Microsoft lifetime of 6.0  
 Dev/Test Focus: web apps with Telerik UI for ASP.Net Core  
-Public Release: 15 July 2021 in repository github.com/BHAVIUS/PORTALDOORS  
+Public Release: 24 June 2021 in repository github.com/BHAVIUS/PDP-DREAM  
 
-Visual Studio Solution Collection of DotNet Projects
+Visual Studio Solution Stack of DotNet Projects and Assemblies for NexusWebApp  
 
-* PORTALDOORS.NexusRestApi live at <a href="https://npds.portaldoors.org/">npds.PORTALDOORS.org</a>
-* PORTALDOORS.NexusWebApp live at <a href="https://www.portaldoors.org/">www.PORTALDOORS.org</a>
-* PORTALDOORS.ScribeRestApi live at <a href="https://npds.portaldoors.net/">npds.PORTALDOORS.net</a>
-* PORTALDOORS.ScribeWebApp live at <a href="https://www.portaldoors.net/">www.PORTALDOORS.net</a>
+* PDP.DREAM.NexusWebApp (PDP.Aoraki.NexusWebApp)
+* -> PDP.DREAM.NexusRestApi (PDP.Aoraki.NexusRestApi)
+* --> PDP.DREAM.NexusDataLib (PDP.Aoraki.NexusDataLib)
+* ---> PDP.DREAM.NpdsCoreLib (PDP.Aoraki.NpdsCoreLib)
+
+Visual Studio Solution Stack of DotNet Projects and Assemblies for ScribeWebApp  
+
+* PDP.DREAM.ScribeWebApp (PDP.Aoraki.ScribeWebApp)
+* -> PDP.DREAM.ScribeRestApi (PDP.Aoraki.ScribeRestApi)
+* --> PDP.DREAM.SiaaDataLib (PDP.Aoraki.SiaaDataLib)
+* ---> PDP.DREAM.ScribeDataLib (PDP.Aoraki.ScribeDataLib)
+* ----> PDP.DREAM.NexusDataLib (PDP.Aoraki.NexusDataLib)
+* -----> PDP.DREAM.NpdsCoreLib (PDP.Aoraki.NpdsCoreLib)
 
 Related Github Projects  
 
